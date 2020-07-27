@@ -21,3 +21,4 @@ haversine==2.2.0
 requests==2.24.0
 django-extensions==3.0.3
 ipython==7.16.1
+gunicorn==20.0.4
