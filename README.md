@@ -25,7 +25,7 @@
 * MySQL
 * CORS headers
 * Git, Github
-* AWS E2C, RDS
+* AWS EC2, RDS
 * Docker
 
 # Features
