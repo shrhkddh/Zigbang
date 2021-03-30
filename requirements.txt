@@ -8,7 +8,7 @@ django-cors-headers==3.4.0
 mysqlclient==2.0.1
 pudb==2019.2
 pycparser==2.20
-Pygments==2.6.1
+Pygments==2.7.4
 PyJWT==1.7.1
 pytz==2020.1
 selenium==3.141.0
